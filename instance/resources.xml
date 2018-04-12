@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <resource>
+        <property name="name" value="SMARTM"/>
+        <property name="type" value="git"/>
+        <property name="baseurl" value="https://github.com/smartmanru"/>
+    </resource>
+    <resource>
+        <property name="name" value="buildmachine"/>
+        <property name="type" value="ssh"/>
+    </resource>
+    <resource>
+        <property name="name" value="gitroot"/>
+        <property name="type" value="git"/>
+        <property name="baseurl" value="https://github.com/smartmanru"/>
+    </resource>
+</resources>
