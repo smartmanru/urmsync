@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<environment appversion="1020302" distr-remote="no" envtype="production" envversion="9" name="prod" offline="no">
+    <segment datacenter="voshod" name="segment" offline="no">
+        <server accesstype="generic" name="linuxtestnpm" offline="yes" ostype="linux" runtype="webapp">
+            <node account="root@urm-debian-test" dbstandby="no" offline="no" pos="1" type="self"/>
+        </server>
+        <startorder>
+            <startgroup name="q" servers="linuxtestnpm"/>
+        </startorder>
+    </segment>
+</environment>
