@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<distributive appversion="1020302">
+    <deliveries>
+        <delivery doc_any="no" folder="." name="section" schema_any="no">
+            <distitem custom_deploy="no" custom_get="no" deployname="dist" deployversion="none" distname="dist" extension=".tar" name="dist" source="build" srcitem="dist" type="binary"/>
+        </delivery>
+    </deliveries>
+    <components/>
+</distributive>

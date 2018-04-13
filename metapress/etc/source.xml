@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sources appversion="1020302">
+    <projectset name="main">
+        <project branch="master" builder="buildremote" custom_build="no" custom_get="no" name="main" order="1" prod="yes" repodata="/" repopath="/" repository="Stream-Example-Vue-Cli" resource="smart" type="buildable">
+            <srcitem basename="dist" extension=".tar" internal="no" itempath="." name="dist" type="basic"/>
+        </project>
+    </projectset>
+</sources>
