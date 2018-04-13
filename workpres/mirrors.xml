@@ -3,8 +3,10 @@
     <repository>
         <property name="name" value="core"/>
         <property name="type" value="server"/>
+        <property name="resource" value="smart"/>
+        <property name="repository" value="urmsync"/>
         <property name="rootpath" value="/"/>
-        <property name="datapath" value="/"/>
+        <property name="datapath" value="workpres"/>
     </repository>
     <repository>
         <property name="name" value="product-stream-data"/>
@@ -17,8 +19,10 @@
         <property name="name" value="product-stream-meta"/>
         <property name="desc" value="standard meta repository"/>
         <property name="type" value="product_meta"/>
+        <property name="resource" value="smart"/>
+        <property name="repository" value="urmsync"/>
         <property name="rootpath" value="/"/>
-        <property name="datapath" value="/"/>
+        <property name="datapath" value="metapress"/>
     </repository>
     <repository>
         <property name="name" value="project-stream-main"/>

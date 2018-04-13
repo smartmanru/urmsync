@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <base>
     <category type="account"/>
-    <category type="app"/>
+    <category type="app">
+        <group name="app" offline="no" type="app"/>
+    </category>
     <category type="host"/>
 </base>

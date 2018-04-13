@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<lifecycles/>
+<lifecycles>
+    <lifecycle deploydays="15" enabled="no" id="teste" regular="no" releasedays="30" shiftdays="0" type="major"/>
+</lifecycles>
